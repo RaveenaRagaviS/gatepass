@@ -1,0 +1,5 @@
+{
+  "name": "Campus GatePass Pro",
+  "description": "A secure, full-stack digital gate pass system for campus exit management featuring QR code verification and role-based dashboards.",
+  "requestFramePermissions": ["camera"]
+}
